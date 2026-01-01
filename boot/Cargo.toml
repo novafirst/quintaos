@@ -1,0 +1,8 @@
+[package]
+name = "quintaos-boot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+quintaos-kernel = { path = "../kernel" }
+
